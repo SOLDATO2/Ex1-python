@@ -1,5 +1,5 @@
 # Ex1-python
-Exercicio 1, jogo da velha 3x3.
+Exercicio 1, jogo da velha 4x4.
 
 
 Aluno:Felipe Porto Caldeira do Nascimento
